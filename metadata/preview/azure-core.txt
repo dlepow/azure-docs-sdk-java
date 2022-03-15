@@ -1,0 +1,10 @@
+com.microsoft.windowsazure
+com.microsoft.windowsazure.core
+com.microsoft.windowsazure.core.pipeline
+com.microsoft.windowsazure.core.pipeline.apache
+com.microsoft.windowsazure.core.pipeline.filter
+com.microsoft.windowsazure.core.pipeline.jersey
+com.microsoft.windowsazure.credentials
+com.microsoft.windowsazure.exception
+com.microsoft.windowsazure.management.configuration
+com.microsoft.windowsazure.tracing
